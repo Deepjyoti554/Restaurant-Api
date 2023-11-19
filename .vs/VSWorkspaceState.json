@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\CustomerModel",
+    "\\Models\\ItemModel",
+    "\\Models\\StaffModel",
+    "\\Services",
+    "\\Services\\CustomerService",
+    "\\Services\\OrderService"
+  ],
+  "SelectedNode": "\\RestaurantApi.sln",
+  "PreviewInSolutionExplorer": false
+}
